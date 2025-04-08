@@ -7,7 +7,7 @@ Implementação da estrutura de dados grafo em python e dos algoritmos de busca 
 ---
 
 ## 🗂️ Estrutura
-
+ ```bash
 📦 Grafos
 ├─📂 grafosED
 ├── 📂 **pycache**
@@ -20,7 +20,7 @@ Implementação da estrutura de dados grafo em python e dos algoritmos de busca 
 ├── lerArquivo.py
 ├── main.py
 └── README.md
-
+```
 ---
 
 ## ⚙️ Execução do código
